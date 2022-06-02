@@ -1,0 +1,64 @@
+/home/jmarchal/Workspace Fatec/ProjetoFinal/bin/Debug/net5.0/ProjetoFinal
+/home/jmarchal/Workspace Fatec/ProjetoFinal/bin/Debug/net5.0/ProjetoFinal.deps.json
+/home/jmarchal/Workspace Fatec/ProjetoFinal/bin/Debug/net5.0/ProjetoFinal.runtimeconfig.json
+/home/jmarchal/Workspace Fatec/ProjetoFinal/bin/Debug/net5.0/ProjetoFinal.runtimeconfig.dev.json
+/home/jmarchal/Workspace Fatec/ProjetoFinal/bin/Debug/net5.0/ProjetoFinal.dll
+/home/jmarchal/Workspace Fatec/ProjetoFinal/bin/Debug/net5.0/ref/ProjetoFinal.dll
+/home/jmarchal/Workspace Fatec/ProjetoFinal/bin/Debug/net5.0/ProjetoFinal.pdb
+/home/jmarchal/Workspace Fatec/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.csproj.AssemblyReference.cache
+/home/jmarchal/Workspace Fatec/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmarchal/Workspace Fatec/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.AssemblyInfoInputs.cache
+/home/jmarchal/Workspace Fatec/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.AssemblyInfo.cs
+/home/jmarchal/Workspace Fatec/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.csproj.CoreCompileInputs.cache
+/home/jmarchal/Workspace Fatec/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.dll
+/home/jmarchal/Workspace Fatec/ProjetoFinal/obj/Debug/net5.0/ref/ProjetoFinal.dll
+/home/jmarchal/Workspace Fatec/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.pdb
+/home/jmarchal/Workspace Fatec/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.genruntimeconfig.cache
+/home/suportespi/Downloads/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.csproj.AssemblyReference.cache
+/home/suportespi/Downloads/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+/home/suportespi/Downloads/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.AssemblyInfoInputs.cache
+/home/suportespi/Downloads/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.AssemblyInfo.cs
+/home/suportespi/Downloads/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.csproj.CoreCompileInputs.cache
+/home/suportespi/Downloads/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.dll
+/home/suportespi/Downloads/ProjetoFinal/obj/Debug/net5.0/ref/ProjetoFinal.dll
+/home/suportespi/Downloads/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.pdb
+/home/suportespi/Downloads/ProjetoFinal/bin/Debug/net5.0/ProjetoFinal
+/home/suportespi/Downloads/ProjetoFinal/bin/Debug/net5.0/ProjetoFinal.deps.json
+/home/suportespi/Downloads/ProjetoFinal/bin/Debug/net5.0/ProjetoFinal.runtimeconfig.json
+/home/suportespi/Downloads/ProjetoFinal/bin/Debug/net5.0/ProjetoFinal.runtimeconfig.dev.json
+/home/suportespi/Downloads/ProjetoFinal/bin/Debug/net5.0/ProjetoFinal.dll
+/home/suportespi/Downloads/ProjetoFinal/bin/Debug/net5.0/ref/ProjetoFinal.dll
+/home/suportespi/Downloads/ProjetoFinal/bin/Debug/net5.0/ProjetoFinal.pdb
+/home/suportespi/Downloads/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.genruntimeconfig.cache
+/home/jmarchal/FATEC/Workspace Fatec/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.csproj.AssemblyReference.cache
+/home/jmarchal/FATEC/Workspace Fatec/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmarchal/FATEC/Workspace Fatec/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.AssemblyInfoInputs.cache
+/home/jmarchal/FATEC/Workspace Fatec/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.AssemblyInfo.cs
+/home/jmarchal/FATEC/Workspace Fatec/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.csproj.CoreCompileInputs.cache
+/home/jmarchal/FATEC/Workspace Fatec/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.dll
+/home/jmarchal/FATEC/Workspace Fatec/ProjetoFinal/obj/Debug/net5.0/ref/ProjetoFinal.dll
+/home/jmarchal/FATEC/Workspace Fatec/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.pdb
+/home/jmarchal/FATEC/Workspace Fatec/ProjetoFinal/bin/Debug/net5.0/ProjetoFinal
+/home/jmarchal/FATEC/Workspace Fatec/ProjetoFinal/bin/Debug/net5.0/ProjetoFinal.deps.json
+/home/jmarchal/FATEC/Workspace Fatec/ProjetoFinal/bin/Debug/net5.0/ProjetoFinal.runtimeconfig.json
+/home/jmarchal/FATEC/Workspace Fatec/ProjetoFinal/bin/Debug/net5.0/ProjetoFinal.runtimeconfig.dev.json
+/home/jmarchal/FATEC/Workspace Fatec/ProjetoFinal/bin/Debug/net5.0/ProjetoFinal.dll
+/home/jmarchal/FATEC/Workspace Fatec/ProjetoFinal/bin/Debug/net5.0/ref/ProjetoFinal.dll
+/home/jmarchal/FATEC/Workspace Fatec/ProjetoFinal/bin/Debug/net5.0/ProjetoFinal.pdb
+/home/jmarchal/FATEC/Workspace Fatec/ProjetoFinal/obj/Debug/net5.0/ProjetoFinal.genruntimeconfig.cache
+F:\Fatec\Semestre - 03\Workspace Fatec\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.exe
+F:\Fatec\Semestre - 03\Workspace Fatec\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.deps.json
+F:\Fatec\Semestre - 03\Workspace Fatec\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.runtimeconfig.json
+F:\Fatec\Semestre - 03\Workspace Fatec\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.runtimeconfig.dev.json
+F:\Fatec\Semestre - 03\Workspace Fatec\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.dll
+F:\Fatec\Semestre - 03\Workspace Fatec\ProjetoFinal\bin\Debug\net5.0\ref\ProjetoFinal.dll
+F:\Fatec\Semestre - 03\Workspace Fatec\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.pdb
+F:\Fatec\Semestre - 03\Workspace Fatec\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+F:\Fatec\Semestre - 03\Workspace Fatec\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.AssemblyInfoInputs.cache
+F:\Fatec\Semestre - 03\Workspace Fatec\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.AssemblyInfo.cs
+F:\Fatec\Semestre - 03\Workspace Fatec\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+F:\Fatec\Semestre - 03\Workspace Fatec\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.dll
+F:\Fatec\Semestre - 03\Workspace Fatec\ProjetoFinal\obj\Debug\net5.0\ref\ProjetoFinal.dll
+F:\Fatec\Semestre - 03\Workspace Fatec\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.pdb
+F:\Fatec\Semestre - 03\Workspace Fatec\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.genruntimeconfig.cache
+F:\Fatec\Semestre - 03\Workspace Fatec\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.csproj.AssemblyReference.cache
